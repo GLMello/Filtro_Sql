@@ -1,6 +1,6 @@
 <h1> Aplicando filtros às consultas SQL</h1>
 
- ### You can also read this in: [English](https://github.com/GLMello/Sql_Filtering)
+ ### You can also read this in: [English](https://github.com/GLMello/Sql-Filtering)
 
 <h2>Descrição</h2>
 Este projeto consiste em utilizar filtros SQL (Queries) para investigar potenciais riscos de segurança em diferentes áreas. Ao longo deste projeto, farei uso de diferentes filtros e operadores para obter as informações necessárias para iniciar a mitigação de riscos.
